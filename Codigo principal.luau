@@ -1,3 +1,16 @@
+--[[
+
+          ⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⠀
+        ⠀⣠⣶⣿⣿⣿⣿⣿⣿⣶⣄⠀
+       ⢰⣿⣿⣿⡿⠿⠿⢿⣿⣿⣿⡆
+       ⣿⣿⣿⠃⠀⠀⠀⠀⢹⣿⣿⣿
+       ⢿⣿⣿⣦⣄⠀⠀⣠⣴⣿⣿⡿
+        ⠙⢿⣿⣿⣿⣿⣿⣿⡿⠋
+           ⠈⠛⠿⠿⠛⠁
+
+        S Y S T E M   K I L L E R
+--]]
+
 -- 1. use esse codigo como o sistema principal 
 -- cole em 'serverscriptservice':
 
